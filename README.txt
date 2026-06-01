@@ -1,1 +1,1 @@
-This is my first git class 12345
+This is my first git class 12
